@@ -10,7 +10,8 @@ Your assessment can be accessed by clicking the link below to launch the assessm
 
 | **Assessment** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
-| Week 1 | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/python-for-data-analysis/blob/moi-20230122/assessments/moi_week_1_assessment.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/python-for-data-analysis/blob/moi-20230122/assessments/moi_week_1_assessment.ipynb)
+| Week 1 Assessment | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/python-for-data-analysis/blob/moi-20230122/assessments/moi_week_1_assessment.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/python-for-data-analysis/blob/moi-20230122/assessments/moi_week_1_assessment.ipynb)
+| Week 1 Solution | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/python-for-data-analysis/blob/moi-20230122/assessments/moi_week_1_assessment_solutions.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/python-for-data-analysis/blob/moi-20230122/assessments/moi_week_1_assessment_solutions.ipynb)
 
 ## Learning Objectives
 
