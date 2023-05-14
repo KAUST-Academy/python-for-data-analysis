@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KAUST-Academy/python-for-data-analysis/november-2022)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KAUST-Academy/python-for-data-analysis/moi-bridging-program-cohort-2)
 
 # Python for Data Analysis
 
@@ -23,8 +23,8 @@ A whirlwind tutorial of the basics of the Python programming language. There mod
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
-| Python Language Basics | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/python-for-data-analysis/blob/november-2022/module-0/ch02.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/python-for-data-analysis/blob/november-2022/module-0/ch02.ipynb) | 
-| Built-in Data Structures, Functions, and Files | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/python-for-data-analysis/blob/november-2022/module-0/ch03.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/python-for-data-analysis/blob/november-2022/module-0/ch03.ipynb) | 
+| Python Language Basics | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/python-for-data-analysis/blob/moi-bridging-program-cohort-2/module-0/ch02.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/python-for-data-analysis/blob/moi-bridging-program-cohort-2/module-0/ch02.ipynb) | 
+| Built-in Data Structures, Functions, and Files | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/python-for-data-analysis/blob/moi-bridging-program-cohort-2/module-0/ch03.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/python-for-data-analysis/blob/moi-bridging-program-cohort-2/module-0/ch03.ipynb) | 
 
 ### Module 1
 
@@ -32,10 +32,10 @@ After completing this module learners should understand various data types used 
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
-| NumPy Basics | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/python-for-data-analysis/blob/november-2022/module-1/ch04.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/python-for-data-analysis/blob/november-2022/module-1/ch04.ipynb) | 
-| Advanced NumPy (optional) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/python-for-data-analysis/blob/november-2022/module-1/appb.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/python-for-data-analysis/blob/november-2022/module-1/appb.ipynb) | 
-| Pandas Basics | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/python-for-data-analysis/blob/november-2022/module-1/ch05.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/python-for-data-analysis/blob/november-2022/module-1/ch05.ipynb) | 
-| Data Loading, Storage, and File Formats | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/python-for-data-analysis/blob/november-2022/module-1/ch06.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/python-for-data-analysis/blob/november-2022/module-1/ch06.ipynb) | 
+| NumPy Basics | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/python-for-data-analysis/blob/moi-bridging-program-cohort-2/module-1/ch04.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/python-for-data-analysis/blob/moi-bridging-program-cohort-2/module-1/ch04.ipynb) | 
+| Advanced NumPy (optional) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/python-for-data-analysis/blob/moi-bridging-program-cohort-2/module-1/appb.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/python-for-data-analysis/blob/moi-bridging-program-cohort-2/module-1/appb.ipynb) | 
+| Pandas Basics | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/python-for-data-analysis/blob/moi-bridging-program-cohort-2/module-1/ch05.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/python-for-data-analysis/blob/moi-bridging-program-cohort-2/module-1/ch05.ipynb) | 
+| Data Loading, Storage, and File Formats | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/python-for-data-analysis/blob/moi-bridging-program-cohort-2/module-1/ch06.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/python-for-data-analysis/blob/moi-bridging-program-cohort-2/module-1/ch06.ipynb) | 
 
 ### Module 2
 
