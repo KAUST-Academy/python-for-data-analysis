@@ -8,11 +8,6 @@ Course materials for a multi day course on data analysis with Python using [Pand
 
 Your assessment can be accessed by clicking the link below to launch the assessment in either Google Colab or Kaggle. Once you have completed the assessment, then your should download your solution to your computer and then upload it using the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfedpqaUiSIDdk3tenEgyCmVNKyyyEzSVt_b2aLmj--kXvRZg/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link__;!!Nmw4Hv0!xK1WuWO3ojPHEp5HHeBQl2GMr4AXHWjQj2w1tBLA3U9HRWuJw_xC6X1I6kiKSriRFWGhtUkcUmLbPZ7_fqIlguSRl-JCmiU_1xir) that we have created. 
 
-| **Assessment** | **Open in Google Colab** | **Open in Kaggle** |
-|--------------|:------------------------:|:------------------:|
-| Week 1 Assessment | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/python-for-data-analysis/blob/moi-20230122/assessments/moi_week_1_assessment.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/python-for-data-analysis/blob/moi-20230122/assessments/moi_week_1_assessment.ipynb)
-| Week 1 Solution | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/python-for-data-analysis/blob/moi-20230122/assessments/moi_week_1_assessment_solutions.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/python-for-data-analysis/blob/moi-20230122/assessments/moi_week_1_assessment_solutions.ipynb)
-
 ## Learning Objectives
 
 The objective of this course is to provide students with an experimental approach, through practical experience, with data analysis using the Python programming language. The course is designed to provide students with practical experience with state-of-the-art data analysis tools that are widely used in industry. 
