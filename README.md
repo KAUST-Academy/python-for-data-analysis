@@ -15,6 +15,10 @@ This covers will cover the majority of [Python for Data Analysis][6] by Wes McKi
 * Understand and apply data modelling and analysis workflows in Python; 
 * Apply Python for real-world data analysis problems. 
 
+| **Assessment** | **Open in Google Colab** | **Open in Kaggle** |
+|----------------|:------------------------:|:------------------:|
+| Week 1 Assessment | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/python-for-data-analysis/blob/moi-bridging-program-cohort-2/assessments/moi_week_1_assessment.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/python-for-data-analysis/blob/moi-bridging-program-cohort-2/assessments/moi_week_1_assessment.ipynb)
+
 ## Lessons
 
 ### Module 0
