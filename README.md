@@ -21,7 +21,7 @@ Links to the assessments can be found below. After opening your assessment in Go
 
 `FIRSTNAME_LASTNAME_moi_week_1_assessment.ipynb`
 
-When you are finished, please download a copy of your assessment and then upload the assessment using this [Google Form](https://forms.gle/fWu92Vm2fDfWYq6P8).
+When you are finished, please download a copy of your assessment and then upload the assessment using this [Google Form](https://forms.gle/qKb4fWh51MmuZp82A).
 
 | **Assessment** | **Open in Google Colab** | **Open in Kaggle** |
 |----------------|:------------------------:|:------------------:|
