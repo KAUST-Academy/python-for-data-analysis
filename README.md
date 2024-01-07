@@ -23,8 +23,8 @@ A whirlwind tutorial of the basics of the Python programming language. There mod
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
-| Python Language Basics | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/python-for-data-analysis/blob/november-2022/module-0/ch02.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/python-for-data-analysis/blob/november-2022/module-0/ch02.ipynb) | 
-| Built-in Data Structures, Functions, and Files | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/python-for-data-analysis/blob/november-2022/module-0/ch03.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/python-for-data-analysis/blob/november-2022/module-0/ch03.ipynb) | 
+| Python Language Basics | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/python-for-data-analysis/blob/main/module-0/ch02.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/python-for-data-analysis/blob/main/module-0/ch02.ipynb) | 
+| Built-in Data Structures, Functions, and Files | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/python-for-data-analysis/blob/main/module-0/ch03.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/python-for-data-analysis/blob/main/module-0/ch03.ipynb) | 
 
 ### Module 1
 
